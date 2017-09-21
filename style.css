@@ -1,0 +1,39 @@
+h1{
+	color:#003399;
+	font-family:  'Open Sans', sans-serif;
+}
+h2{
+	color: rgb(25,25,25);
+}
+h3{
+	color:rgba:(25,83,13,1.0);
+	font-family:  'Open Sans', sans-serif;
+	border: 1px solid white;
+	padding:10px;
+	border-radius: 2px;
+	background-color: solid green;
+}
+body{
+	/*background-image: url("images/pexels-photo-457018.jpeg");*/
+	background-size: cover;
+	background-color: rgba(150,150,170,0.5);
+	font-family:  'Roboto Slab', serif;
+	color:white;
+}
+a{
+	text-decoration: none;
+}
+#boat{
+  padding: 30px;
+  background: rgb(100,100,100);
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.image{
+  padding: 30px;
+  border-radius: 20%;
+  box-shadow: 5px 5px 3px black
+}
